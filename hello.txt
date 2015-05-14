@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Starting Git,
 
->>>>>>> 42b149d7d065752f719884910667f9ba0ee0d1d1
+Starting Git
 
 what is the safest way to keep login cred to push?
 
