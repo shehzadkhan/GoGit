@@ -1,1 +1,4 @@
-First commit
+First commit,
+
+we start git
+
