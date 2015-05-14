@@ -1,0 +1,5 @@
+
+Starting Git
+
+what is the safest way to keep login cred to push?
+
